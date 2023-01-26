@@ -11,4 +11,4 @@
 
 
 
-Hosting URL:https://bm20050.github.io/JS_project1/
+https://dicegame-557a2.web.app
