@@ -8,7 +8,7 @@
 2023.01.20 : 주사위던지기 마무리.
 
 
-Project Console: https://console.firebase.google.com/project/dicegame-1ab50/overview
 
 
-Hosting URL: https://dicegame-1ab50.web.app
+
+Hosting URL:https://bm20050.github.io/JS_project1/
