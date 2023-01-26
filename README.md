@@ -11,6 +11,4 @@
 Project Console: https://console.firebase.google.com/project/dicegame-1ab50/overview
 
 
-
-
 Hosting URL: https://dicegame-1ab50.web.app
